@@ -1,12 +1,11 @@
 ### Olá! Eu sou o Carlos Daniel 👋
 
-🌱 Atualmente, estudando TailwindCSS e Framer Motion
+🌱 Atualmente estou estudando TailwindCSS e Framer Motion
 
 <div align="center">
-  <a href="https://github.com/ruuuff">
-    <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=ruuuff&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruuuff&layout=compact&langs_count=16&theme=dracula"/>
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ruuuff&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  &nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruuuff&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
