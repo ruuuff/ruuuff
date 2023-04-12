@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Carlos Daniel 👋
 
-🌱 Atualmente estou estudando MySQL
+🌱 Atualmente estou revisando os estudos sobre Git e GitHub
 
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ruuuff&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -17,7 +17,8 @@
   <img align="center" alt="ruff-Nextjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="ruff-TailwindcSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
   <img align="center" alt="ruff-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img align="center" alt="ruff-Git" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="center" alt="ruff-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="center" alt="ruff-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 </div>
 
 ##
