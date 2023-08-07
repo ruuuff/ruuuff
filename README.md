@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Carlos Daniel 👋
 
-🌱 Atualmente estou estudando Next.js 13
+🌱 Atualmente estou revisando meus estudos sobre ReactJS
 
 <div align="center">
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruuuff&layout=compact&langs_count=16&theme=dracula"/>
