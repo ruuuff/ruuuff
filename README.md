@@ -1,6 +1,6 @@
 ### Hello! I'm Carlos 👋
 
-<div align="center">
+<div align="left">
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruuuff&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
